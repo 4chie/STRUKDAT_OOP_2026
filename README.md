@@ -1,4 +1,4 @@
-# STRUKDT_OOP_2026
+# STRUKDAT_OOP_2026
 
 Struktur data adalah cara menyimpan atau merepresentasikan data di dalam komputer agar dapat digunakan secara efisien.
 
@@ -22,3 +22,4 @@ Inheritance adalah konsep dimana sebuah class dapat mewarisi atribut dan method 
 
 
 Polymorphism adalah konsep dimana method yang sama dapat memiliki perilaku yang berbeda tergantung pada objek yang menggunakannya.
+
