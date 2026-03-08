@@ -1,3 +1,5 @@
+# STRUKDT_OOP_2026
+
 Struktur data adalah cara menyimpan atau merepresentasikan data di dalam komputer agar dapat digunakan secara efisien.
 
 Object-Oriented Programming (OOP) adalah paradigma pemrograman yang digunakan untuk memodelkan objek di dunia nyata ke dalam sebuah program. Dalam OOP, data dan fungsi digabungkan dalam sebuah objek yang dapat saling berinteraksi.
@@ -17,5 +19,6 @@ Abstraction adalah konsep menyederhanakan sistem dengan hanya menampilkan fungsi
 Inheritance adalah konsep dimana sebuah class dapat mewarisi atribut dan method dari class lain sehingga kode dapat digunakan kembali tanpa menulis ulang struktur yang sama.
 
 4. **Polymorphism**
+
 
 Polymorphism adalah konsep dimana method yang sama dapat memiliki perilaku yang berbeda tergantung pada objek yang menggunakannya.
