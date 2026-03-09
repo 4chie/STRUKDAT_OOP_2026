@@ -14,6 +14,8 @@ public class Main {
         System.out.println(williams);
 
         redbull.accelerate(50);
+        ferrari.accelerate(40);
+        mclaren.accelerate(50);
         williams.accelerate(70);
     }
 }
